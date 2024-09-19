@@ -1,0 +1,141 @@
+.top-part {
+    background-color: white;
+    margin-left: 5%;
+}
+
+.top-part h2 {
+    color: rgb(37, 196, 196);
+    font-size: xxx-large;
+}
+
+.top-part h4 {
+    color: #bedf32ff;
+    font-size: xxx-large;
+}
+
+.top-part p {
+    font-size: xx-large;
+}
+
+.btm-part {
+    display: flex;
+    margin: 0;
+    margin-top: 5%;
+}
+
+.sub {
+    background-color:  #2ab4b1ff;
+    width: 50%;
+}
+
+#sub-content{
+    margin: 10%;
+    color: white;
+    font-size: 200%;
+}
+
+.price {
+    display: flex;
+}
+
+#duration {
+    font-size: 25%;
+    font-weight: 0.2%;
+    padding: 5%;
+}
+
+#btn {
+    border: none;
+    border-radius: 4%;
+    background-color: #bedf32ff;
+    width: 80%;
+    height: 15%;
+    margin-top: 3%;
+    padding: 0.8% 1.6%;
+    font-size: 150%;
+    margin-left: 10%;
+    color: white;
+}
+
+.why {
+    background-color: #4abebdff;
+    width: 50%;
+}
+
+#why-content{
+    margin: 10%;
+    color: white;
+    font-size: 200%;
+}
+
+@media (max-width: 1280px) {
+    .top-part {
+        background-color: white;
+        margin-left: 5%;
+    }
+    
+    .top-part h2 {
+        color: rgb(37, 196, 196);
+        font-size: x-large;
+    }
+    
+    .top-part h4 {
+        color: #bedf32ff;
+        font-size: x-large;
+    }
+    
+    .top-part p {
+        font-size: small;
+    }
+    
+    .btm-part {
+        display: flex;
+        margin: 0;
+        margin-top: 5%;
+    }
+    
+    .sub {
+        background-color:  #2ab4b1ff;
+        width: 50%;
+    }
+    
+    #sub-content{
+        margin: 10%;
+        color: white;
+        font-size: 100%;
+    }
+    
+    .price {
+        display: flex;
+    }
+    
+    #duration {
+        font-size: 25%;
+        font-weight: 0.2%;
+        padding: 5%;
+    }
+    
+    #btn {
+        border: none;
+        border-radius: 4%;
+        background-color: #bedf32ff;
+        width: 80%;
+        height: 15%;
+        margin-top: 3%;
+        padding: 0.8% 1.6%;
+        font-size: 10  0%;
+        margin-left: 10%;
+        color: white;
+    }
+    
+    .why {
+        background-color: #4abebdff;
+        width: 50%;
+    }
+    
+    #why-content{
+        margin: 10%;
+        color: white;
+        font-size:100%;
+    }
+}
