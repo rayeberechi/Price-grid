@@ -2,7 +2,7 @@
 
 ## _This is a challenge from "Frontend Mentors". A simple pricing grid designed to showcase subscription details and details about the benefit of joining the community. it consists of two part, a top section (header) and a lower section divided into two part (subscription and about)._
 ---
-## *Project Files
+## Project Files
 - index.html
 - styles.css
 
@@ -30,9 +30,9 @@
 - Simple layout.
 
 
-## ** Credits
+## Credits
 
 - Faith Raymond: Author
 - BlackAdam: Tutor, Web3Bridge Web2CXI
-- images: hosted on cloudinary
+- Images: hosted on cloudinary
 - Frontend Mentors: Challenge Source
