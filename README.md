@@ -1,4 +1,4 @@
-# **Faithy's Price grid
+## Faithy's Price grid
 
 ## _This is a challenge from "Frontend Mentors". A simple pricing grid designed to showcase subscription details and details about the benefit of joining the community. it consists of two part, a top section (header) and a lower section divided into two part (subscription and about)._
 ---
